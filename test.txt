@@ -1,0 +1,20 @@
+// pages and citations
+pages {
+  identifier
+  citations
+  sections {
+    identifier
+    citations
+  }
+}
+
+
+// sections query
+sections {
+  identifier
+  citations
+  page {
+    identifier
+    citations
+  }
+}

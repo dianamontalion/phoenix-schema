@@ -1,0 +1,18 @@
+{
+  "name": "Orbit and turning",
+  "identifier": "/sections/Albert_Einstein_Life/Albert_Einstein_Life.json",
+  "version": 7566810,
+  "in_language": "/languages/en.json",
+  "is_part_of": [
+    "/pages/Albert_Einstein/Albert_Einstein.json"
+  ],
+  "text": "<p>Einstein was born in <a href=\"\/wiki\/Ulm\" title=\"Ulm\">Ulm<\/a>, <a href=\"\/wiki\/W%C3%BCrttemberg\" class=\"mw-redirect\" title=\"W\u00fcrttemberg\">W\u00fcrttemberg<\/a>, <a href=\"\/wiki\/Germany\" title=\"Germany\">Germany<\/a>, on 14 March 1879.<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"#cite_note-11\">[10]<\/a><\/sup> His family was <a href=\"\/wiki\/Jewish\" class=\"mw-redirect\" title=\"Jewish\">Jewish<\/a>, but was not very <a href=\"https:\/\/simple.wiktionary.org\/wiki\/religious\" class=\"extiw\" title=\"wikt:religious\">religious<\/a>. However, later in life Einstein became very interested in his <a href=\"\/wiki\/Judaism\" title=\"Judaism\">Judaism<\/a>. Einstein did not begin speaking until he was 2 years old. According to his younger sister, Maja, \"He had such difficulty with language that those around him feared he would never learn\".<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"#cite_note-12\">[11]<\/a><\/sup> When Einstein was around 4 years old, his father gave him a <a href=\"\/wiki\/Magnetism\" title=\"Magnetism\">magnetic<\/a> <a href=\"\/wiki\/Compass\" title=\"Compass\">compass<\/a>. He tried hard to understand how the needle could seem to move itself so that it always pointed north. The needle was in a closed case, so clearly nothing like wind could be pushing the needle around, and yet it moved. So in this way Einstein became interested in studying science and mathematics. His compass gave him ideas to <a href=\"https:\/\/simple.wiktionary.org\/wiki\/explore\" class=\"extiw\" title=\"wikt:explore\">explore<\/a> the world of science.\n<\/p>\n<p>Before <a href=\"\/wiki\/World_War_II\" title=\"World War II\">World War II<\/a>, in August 1939, Einstein at the suggestion of <a href=\"\/wiki\/Le%C3%B3_Szil%C3%A1rd\" title=\"Le\u00f3 Szil\u00e1rd\">Le\u00f3 Szil\u00e1rd<\/a> wrote to the U.S. president, <a href=\"\/wiki\/Franklin_D._Roosevelt\" title=\"Franklin D. Roosevelt\">Franklin D. Roosevelt<\/a>, to say that the United States should invent an <a href=\"\/wiki\/Atomic_bomb\" class=\"mw-redirect\" title=\"Atomic bomb\">atomic bomb<\/a> so that the <a href=\"\/wiki\/Nazi\" class=\"mw-redirect\" title=\"Nazi\">Nazi<\/a> government could not beat them to the punch. He signed the letter. However, he was not part of the <a href=\"\/wiki\/Manhattan_Project\" title=\"Manhattan Project\">Manhattan Project<\/a>, which was the <a href=\"https:\/\/simple.wiktionary.org\/wiki\/project\" class=\"extiw\" title=\"wikt:project\">project<\/a> that created the atomic bomb.<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"#cite_note-14\">[13]<\/a><\/sup>\n<\/p>",
+  "encoding_format": "text/html",
+  "license": [
+    {
+      "identifier": "CC-BY-SA-3.0",
+      "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

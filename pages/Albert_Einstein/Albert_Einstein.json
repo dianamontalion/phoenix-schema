@@ -1,0 +1,23 @@
+{
+  "name": "Albert Einstein",
+  "identifier": 2138,
+  "url": "https://simple.wikipedia.org/wiki/Albert_Einstein",
+  "in_language": "/languages/en.json",
+  "is_part_of": "/projects/simplewiki.json",
+  "version": 7566810,
+  "date_modified": "2021-06-21T20:41:25Z",
+  "license": [
+    {
+      "identifier": "CC-BY-SA-3.0",
+      "name": "Creative Commons Attribution Share Alike 3.0 Unported",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "main_entity": {
+    "identifier": "Q937"
+  },
+  "has_part": [
+    "/sections/Albert_Einstein_Life/Albert_Einstein_Life.json",
+    "/sections/Albert_Einstein_Life/Albert_Einstein_Life.json"
+  ]
+}
