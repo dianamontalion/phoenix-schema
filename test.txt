@@ -18,3 +18,5 @@ sections {
     citations
   }
 }
+
+TEST
